@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610768349158",
+    "project_id": "easy-navigation-cea64",
+    "storage_bucket": "easy-navigation-cea64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610768349158:android:27683989d7feab98985827",
+        "android_client_info": {
+          "package_name": "com.example.easy_navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610768349158-o2pvi2olv6ro03slfulbchogl9m2lmla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYoWkzP7tMKHzmm49BFjL96Xrj9hRtQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610768349158-o2pvi2olv6ro03slfulbchogl9m2lmla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
